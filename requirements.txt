@@ -1,0 +1,10 @@
+flask
+werkzeug==2.0.3
+numpy
+Pillow
+opencv-python
+mtcnn>=0.1.1
+tensorflow>=2.8.0
+torch
+torchvision
+facenet-pytorch

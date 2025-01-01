@@ -1,0 +1,4 @@
+input_images/*.jpg
+static/output/*.jpg
+.DS_Store
+static/output/*.mp4
